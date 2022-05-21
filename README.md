@@ -50,6 +50,10 @@
   - IntelliJ IDEA
   - Postman
   - Sourcetree
+  - Adobe XD
+  - Adobe Illustrator
+    
+    
 
 ## 👨🏻‍🏫기획 및 설계
 
