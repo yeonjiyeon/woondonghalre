@@ -28,12 +28,12 @@
   - H2
   - Spring Security
   
-
+  
 #### `Front-end`
-    -   HTML5
-    -   CSS3
-    -   JavaScript
-    -   React
+    - HTML5
+    - CSS3
+    - JavaScript
+    - React
 
 
 #### `DevOps`
