@@ -20,15 +20,30 @@
 
 ## 🔍 기술 스택  
 
--   Back-end
-    -   JAVA
-    -   Spring Boot
--   Front-end
+#### `Back-end`
+  - Java 11
+  - Spring Boot 2.6.3
+  - Gradle
+  - Spring Data JPA
+  - H2
+  - Spring Security
+  
+
+#### `Front-end`
     -   HTML5
     -   CSS3
     -   JavaScript
     -   React
--   UX UI
+
+
+#### `DevOps`
+  - Docker
+
+
+#### `Tool`
+  - IntelliJ IDEA
+  - Postman
+  - Sourcetree
 
 ## 👨🏻‍🏫기획 및 설계
 
