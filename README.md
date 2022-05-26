@@ -58,8 +58,7 @@
 
 
 ## 👨🏻‍🏫기획 및 설계
-
-
+ - [테이블 설계](https://www.erdcloud.com/d/nuwJrvn3hzvBh8K2E)
 </br>
 
 
