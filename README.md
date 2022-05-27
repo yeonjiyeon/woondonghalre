@@ -70,3 +70,7 @@
 -   Back end developer 강담희
 -   Front end developer 홍인하
 -   UX UI designer 김서연
+
+
+## 🤙 협업 규칙
+
